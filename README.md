@@ -11,9 +11,10 @@ npm run dev
 ```
 
 #### migrate the table
-
 ```ch
 DB_DATABASE=your_database_name
+```
+```ch
 php artisan migrate
 ```
 
@@ -25,14 +26,14 @@ php artisan serve
 
 #### Admin login
 ```ch
-admin@example.com
-11111111
+email: admin@example.com
+password: 11111111
 ```
 
 #### User login
 ```ch
-user1@example.com
-11111111
+email: user1@example.com
+password: 11111111
 ```
 
 #### For Send Mail using mailtrap
