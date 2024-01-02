@@ -1,0 +1,8 @@
+name,price,quantity,category_id,
+lg,500,50,Electronics,	
+oppo,600,60,Electronics,	
+shirt,40,40,Cloth,	
+pant,60,60,Cloth,	
+shoe,80,80,Cloth,	
+watch,80,80,Watch,
+gloves,80,80,Gloves,	
