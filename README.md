@@ -39,6 +39,9 @@ password: 11111111
 ```ch
 email: user1@example.com
 password: 11111111
+OR
+email: user2@example.com
+password: 11111111
 ```
 
 #### For Send Mail using mailtrap
